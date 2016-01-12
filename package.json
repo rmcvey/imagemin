@@ -50,7 +50,8 @@
   },
   "devDependencies": {
     "ava": "*",
-    "xo": "*"
+    "xo": "*",
+    "vinyl-fs": "^2.2.1"
   },
   "optionalDependencies": {
     "imagemin-gifsicle": "^4.0.0",
